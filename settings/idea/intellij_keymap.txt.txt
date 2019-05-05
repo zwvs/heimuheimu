@@ -1,0 +1,48 @@
+>> Intellij
+Line action:
+	Delete line: Ctrl + Y
+	Duplicate line or selection: Ctrl + D
+	Join lines: Ctrl + Shift + J
+Indent:
+    Indent line or selection: Tab
+    Unindent line or selection: Shift + Tab
+Find and Replace:
+    Find in path: Ctrl + Shift + F
+    Repace in path: Ctrl + Shift + R
+    Find: Ctrl + F
+    Replace: Ctrl + R
+    Find next|move to next occurrence: F3 | Ctrl + L
+    Find previous|move to previous occurrence: Shift + F3 | Ctrl + Shift + L
+Usages: 
+    Find usages: Alt + F7
+    Show usages: Ctrl + Alt + F7
+    Show usgaes in file: Ctrl + F7
+    Hight usgeas in file: Ctrl + Shift + F7
+Navigate:
+    Class: Ctrl + N 
+    File: Ctrl + Shift + N
+    Symbol: Ctrl + Alt + Shift + N
+    Forward: Ctrl + Alt + right_arrow
+    Back: Ctrl + Alt + left_arrow
+    Previous occurrence: Ctrl + Alt + up_arrow
+    Next occurrence: Ctrl + Alt + down_arrow
+    Previous method: Alt + down_arrow
+    next method: Alt + up_arrow
+    Type hierarchy: Ctrl + H
+    Method hierarchy: Ctrl + Shift + H
+    Call hierarchy: Ctrl + Alt + H
+	Jump to:
+		Declaration: Ctrl + B
+		Implementation: Ctrl + Alt + B
+Code:
+	Override method: Ctrl + O
+	Implementation method: Ctrl + I
+	Reformat code: Ctrl + Alt + L
+	Auto indent lines: Ctrl + Alt + I
+	Optimize imports: Ctrl + Alt + O
+Refactor:
+	Rename: Shift + F6
+	Refactor this: Ctrl + Alt + Shift + T
+Others:
+Select all occurrence: Ctrl + Alt + Shift + J
+Toggle case: Ctrl + Shift + U
